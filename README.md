@@ -34,7 +34,6 @@ This smart app lets you:
   - PDF recommendations
   - Prevents UI flicker or blur
 
----
 ## 🛠️ Tech Stack
 | Layer            | Tools                                   |
 |------------------|------------------------------------------|
@@ -45,7 +44,7 @@ This smart app lets you:
 | Search Index     | `FAISS`                                  |
 | Question Answer  | `deepset/roberta-base-squad2`            |
 | Web Search       | `googlesearch-python`                    |
----
+
 ## 📂 How to Run Locally
 ```bash
 git clone https://github.com/your-username/curie-medical-research-bot.git
