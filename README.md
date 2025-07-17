@@ -1,10 +1,7 @@
 # GenAI_Projects
 
-## Project 1:
-🧬 Curie – Scientific Research Assistant for Medical & Pharma PDFs
-
+## Project 1: 🧬 Curie – Scientific Research Assistant for Medical & Pharma PDFs
 Curie is an AI-powered research assistant built using Streamlit, designed specifically for researchers, medical professionals, and data scientists working with medical and pharmaceutical PDF documents.
-
 This smart app lets you:
 ✅ Summarize lengthy scientific PDFs
 ✅ Find similar PDFs online (via Google Search)
