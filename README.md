@@ -4,9 +4,9 @@
 Curie is an AI-powered research assistant built using Streamlit, designed specifically for researchers, medical professionals, and data scientists working with medical and pharmaceutical PDF documents.
 
 This smart app lets you:
-✅ Summarize lengthy scientific PDFs
-✅ Find similar PDFs online (via Google Search)
-✅ Chat with your uploaded PDF (using RAG – Retrieval Augmented Generation)
+- ✅ Summarize lengthy scientific PDFs
+- ✅ Find similar PDFs online (via Google Search)
+- ✅ Chat with your uploaded PDF (using RAG – Retrieval Augmented Generation)
 
 ## 🚀 Features:
 ### 📄 Upload & Parse PDFs
