@@ -1,5 +1,5 @@
-streamlit
-numpy
+streamlit==1.34.0
+numpy==1.24.3
 PyMuPDF==1.22.3
 faiss-cpu==1.7.4
 transformers==4.30.2
