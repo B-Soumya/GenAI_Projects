@@ -1,4 +1,4 @@
-streamlit>=1.25
+streamlit
 numpy
 PyMuPDF==1.22.3
 faiss-cpu==1.7.4
