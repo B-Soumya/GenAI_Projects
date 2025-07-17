@@ -1,7 +1,7 @@
-streamlit
+streamlit>=1.25
+PyMuPDF
+numpy
+faiss-cpu
 transformers
 sentence-transformers
-PyMuPDF
-faiss-cpu
-scikit-learn
-dogs
+googlesearch-python
