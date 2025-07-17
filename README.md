@@ -51,6 +51,8 @@ git clone https://github.com/your-username/curie-medical-research-bot.git
 cd curie-medical-research-bot
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## UI
 <img width="800" height="373" alt="image" src="https://github.com/user-attachments/assets/02619c71-9d8c-4e13-828d-5e47b507ca5e" />
+
