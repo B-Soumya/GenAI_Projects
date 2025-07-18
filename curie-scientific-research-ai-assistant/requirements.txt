@@ -1,7 +1,7 @@
 streamlit
-transformers
-sentence-transformers
-PyMuPDF
-faiss-cpu
-scikit-learn
-dogs
+numpy
+PyMuPDF==1.22.3
+faiss-cpu==1.7.4
+transformers==4.30.2
+sentence-transformers==2.2.2
+googlesearch-python==1.1.0
